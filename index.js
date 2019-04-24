@@ -31,4 +31,4 @@ function theFunk(){
   return funkyFunction
 }
 
-theFunk
+theFunk()
